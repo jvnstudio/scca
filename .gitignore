@@ -1,0 +1,7 @@
+# Terraform downloads and execution artifacts are local-only.
+.terraform/
+*.tfplan
+terraform.tfvars
+
+# macOS Finder metadata.
+.DS_Store
